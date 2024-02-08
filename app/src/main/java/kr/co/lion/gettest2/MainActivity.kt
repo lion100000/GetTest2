@@ -10,5 +10,6 @@ class MainActivity : AppCompatActivity() {
 
         val str1 = "ㅋㅋㅋㅋㅋㅋㅋㅋㅋ"
         val str2 = "ggggggggg"
+        val str3 = "끝말잇기 시작"
     }
 }
